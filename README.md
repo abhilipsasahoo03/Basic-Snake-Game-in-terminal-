@@ -16,7 +16,11 @@ Some basic functionalities of the game:
 5. Displays and correspondingly updates score. 
 
 Functionalities not present:
+
 1. The snake doesn't grow after successfully eating the fruit. Hence, the size remains the same and it doesn't have any head or tail. 
+
 2. The snake doesn't automatically move, and the speed doesn't increase after every successful stage.
+
 3. Unlike the usual playable snake game in mobile phones, here if the snake hits the boundary, it doesn't get into the board from the opposite boundary. 
+
 4. Lacks better UI/UX.
